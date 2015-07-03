@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HotelDemo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="textView1">Not Started.</string>
+    <string name="button1">Scan iBeacons</string>
+
+</resources>
